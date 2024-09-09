@@ -1,0 +1,88 @@
+# Compile of lab2_av.sv was successful.
+# Compile of ledtest.sv was successful.
+# Compile of mux.sv was successful.
+# Compile of oscillator.sv was successful.
+# Compile of sevenSeg.sv was successful.
+# Compile of sum.sv was successful.
+# Compile of muxtb.sv failed with 1 errors.
+# 7 compiles, 1 failed with 1 error.
+# Compile of lab2_av.sv was successful.
+# Compile of ledtest.sv was successful.
+# Compile of mux.sv was successful.
+# Compile of oscillator.sv was successful.
+# Compile of sevenSeg.sv was successful.
+# Compile of sum.sv was successful.
+# Compile of muxtb.sv was successful.
+# 7 compiles, 0 failed with no errors.
+vsim -gui work.muxtb
+# vsim -gui work.muxtb 
+# Start time: 20:43:16 on Sep 08,2024
+# //  ModelSim DE-64 2022.3 Jul 18 2022
+# //
+# //  Copyright 1991-2022 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim DE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading sv_std.std
+# Loading work.muxtb
+# Loading work.mux
+add wave -position end  sim:/muxtb/clk
+add wave -position end  sim:/muxtb/reset
+add wave -position end  sim:/muxtb/s
+add wave -position end  sim:/muxtb/s1
+add wave -position end  sim:/muxtb/s2
+add wave -position end  sim:/muxtb/s_expected
+add wave -position end  sim:/muxtb/selector
+run 100
+# Compile of lab2_av.sv was successful.
+# Compile of ledtest.sv was successful.
+# Compile of mux.sv was successful.
+# Compile of oscillator.sv was successful.
+# Compile of sevenSeg.sv was successful.
+# Compile of sum.sv was successful.
+# Compile of muxtb.sv was successful.
+# 7 compiles, 0 failed with no errors.
+vsim -gui work.muxtb
+# End time: 20:44:25 on Sep 08,2024, Elapsed time: 0:01:09
+# Errors: 0, Warnings: 8
+# vsim -gui work.muxtb 
+# Start time: 20:44:25 on Sep 08,2024
+# Loading sv_std.std
+# Loading work.muxtb
+# Loading work.mux
+add wave -position end  sim:/muxtb/clk
+add wave -position end  sim:/muxtb/reset
+add wave -position end  sim:/muxtb/s
+add wave -position end  sim:/muxtb/s1
+add wave -position end  sim:/muxtb/s2
+add wave -position end  sim:/muxtb/s_expected
+add wave -position end  sim:/muxtb/selector
+run 100
+# Compile of lab2_av.sv was successful.
+# Compile of ledtest.sv was successful.
+# Compile of mux.sv was successful.
+# Compile of oscillator.sv was successful.
+# Compile of sevenSeg.sv was successful.
+# Compile of sum.sv was successful.
+# Compile of muxtb.sv was successful.
+# 7 compiles, 0 failed with no errors.
+# Compile of lab2_av.sv was successful.
+# Compile of ledtest.sv was successful.
+# Compile of mux.sv was successful.
+# Compile of oscillator.sv was successful.
+# Compile of sevenSeg.sv was successful.
+# Compile of sum.sv was successful.
+# Compile of muxtb.sv was successful.
+# 7 compiles, 0 failed with no errors.
+restart -f;
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.muxtb
+# Loading work.mux
+run 100

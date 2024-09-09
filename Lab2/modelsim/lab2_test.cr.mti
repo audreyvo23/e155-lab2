@@ -1,0 +1,43 @@
+C:/Users/avo/Desktop/Lab2/lab2RP/source/impl_1/lab2_av.sv {1 {vlog -work work -sv -stats=none C:/Users/avo/Desktop/Lab2/lab2RP/source/impl_1/lab2_av.sv
+Model Technology ModelSim DE-64 vlog 2022.3 Compiler 2022.07 Jul 18 2022
+-- Compiling module lab2
+
+Top level modules:
+	lab2
+
+} {} {}} C:/Users/avo/Desktop/Lab2/lab2RP/source/impl_1/sevenSeg.sv {1 {vlog -work work -sv -stats=none C:/Users/avo/Desktop/Lab2/lab2RP/source/impl_1/sevenSeg.sv
+Model Technology ModelSim DE-64 vlog 2022.3 Compiler 2022.07 Jul 18 2022
+-- Compiling module sevenSeg
+
+Top level modules:
+	sevenSeg
+
+} {} {}} C:/Users/avo/Desktop/Lab2/lab2RP/source/impl_1/oscillator.sv {1 {vlog -work work -sv -stats=none C:/Users/avo/Desktop/Lab2/lab2RP/source/impl_1/oscillator.sv
+Model Technology ModelSim DE-64 vlog 2022.3 Compiler 2022.07 Jul 18 2022
+-- Compiling module oscillator
+
+Top level modules:
+	oscillator
+
+} {} {}} C:/Users/avo/Desktop/Lab2/lab2RP/source/impl_1/sum.sv {1 {vlog -work work -sv -stats=none C:/Users/avo/Desktop/Lab2/lab2RP/source/impl_1/sum.sv
+Model Technology ModelSim DE-64 vlog 2022.3 Compiler 2022.07 Jul 18 2022
+-- Compiling module sum
+
+Top level modules:
+	sum
+
+} {} {}} C:/Users/avo/Desktop/Lab2/lab2RP/source/impl_1/ledtest.sv {1 {vlog -work work -sv -stats=none C:/Users/avo/Desktop/Lab2/lab2RP/source/impl_1/ledtest.sv
+Model Technology ModelSim DE-64 vlog 2022.3 Compiler 2022.07 Jul 18 2022
+-- Compiling module ledtest
+
+Top level modules:
+	ledtest
+
+} {} {}} C:/Users/avo/Desktop/Lab2/lab2RP/source/impl_1/mux.sv {1 {vlog -work work -sv -stats=none C:/Users/avo/Desktop/Lab2/lab2RP/source/impl_1/mux.sv
+Model Technology ModelSim DE-64 vlog 2022.3 Compiler 2022.07 Jul 18 2022
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}}

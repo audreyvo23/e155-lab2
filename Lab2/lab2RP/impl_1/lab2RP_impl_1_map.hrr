@@ -1,0 +1,46 @@
+---------------------------------------------------
+Report for cell lab2
+   Instance path: lab2
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  LUT4	         57        100.0
+                               LUTGATE	         31        100.0
+                                LUTCCU	         26        100.0
+                                 IOBUF	         22        100.0
+                                PFUREG	         26        100.0
+SUB MODULES
+                                  cell	      count    LUT4 Usage(%)
+                                   mux	          1         7.0
+                            oscillator	          1        66.7
+                              sevenSeg	          1        12.3
+                                   sum	          1        12.3
+---------------------------------------------------
+Report for cell sevenSeg
+   Instance path: lab2/s3
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  LUT4	          7        12.3
+                               LUTGATE	          7        22.6
+---------------------------------------------------
+Report for cell oscillator
+   Instance path: lab2/s0
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  LUT4	         38        66.7
+                               LUTGATE	         12        38.7
+                                LUTCCU	         26        100.0
+                                PFUREG	         26        100.0
+---------------------------------------------------
+Report for cell mux
+   Instance path: lab2/s4
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  LUT4	          4         7.0
+                               LUTGATE	          4        12.9
+---------------------------------------------------
+Report for cell sum
+   Instance path: lab2/s5
+                     Cell usage:
+                                  cell	      count    Res Usage(%)
+                                  LUT4	          7        12.3
+                               LUTGATE	          7        22.6

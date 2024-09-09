@@ -1,0 +1,16 @@
+#Start recording tcl command: 9/8/2024 18:03:25
+#Project Location: C:/Users/avo/Desktop/Lab2/lab2RP; Project name: lab2RP
+prj_open "C:/Users/avo/Desktop/Lab2/lab2RP/lab2RP.rdf"
+prj_add_source "C:/Users/avo/Desktop/Lab2/lab2RP/source/impl_1/sum.sv"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run Export -impl impl_1
+prj_run Export -impl impl_1
+prj_run Export -impl impl_1
+#Stop recording: 9/8/2024 18:36:21
